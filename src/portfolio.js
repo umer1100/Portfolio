@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Muhammad Umer Akram",
+  username: "Umer Akram",
   title: "Hi all, I'm Umer Akram",
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 with experience building scalable Web applications using JavaScript, React.js, Next.js, Vue.js, Node.js, and modern cloud technologies. Specialized in creating seamless user experiences and robust backend systems."
